@@ -1,2 +1,2 @@
 # unity
-some unity codes for 2d game
+Some c# code for top-down 2d Unity game.
